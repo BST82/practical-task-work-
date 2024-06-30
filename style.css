@@ -14,10 +14,7 @@
   .custom-size2 {
     width: 80%;
   }
-  .myimg {
-    width: 40px !important;
-    display: inline;
-  }
+
   .custom-div {
     display: flex;
     flex-direction: row;
@@ -66,10 +63,7 @@
     margin-left: 15px;
     width: 90%;
   }
-  .myimg {
-    width: 30px !important;
-    display: inline;
-  }
+
   .custom-div {
     display: flex;
     flex-direction: column;
